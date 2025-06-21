@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "userId": 1,
+    "description": "My internet is not working.",
+    "status": "Open",
+    "createdAt": "2025-03-11T14:30:00Z"
+  },
+  {
+    "id": 2,
+    "userId": 2,
+    "description": "The printer is not printing.",
+    "status": "In Progress",
+    "createdAt": "2025-03-11T15:10:00Z"
+  },
+  {
+    "id": 4,
+    "userId": 4,
+    "description": "My computer is making strange noises.",
+    "status": "Open",
+    "createdAt": "2025-03-11T17:00:00Z"
+  },
+  {
+    "id": 6,
+    "userId": 1,
+    "description": "My internet is not working.",
+    "status": "In Progress",
+    "createdAt": "2025-06-19T22:06:48.352Z"
+  },
+  {
+    "id": 6,
+    "userId": 1,
+    "description": "My internet is not working.",
+    "status": "Open",
+    "createdAt": "2025-06-19T22:09:50.455Z"
+  },
+  {
+    "id": 6,
+    "userId": 1,
+    "description": "My internet is not working.",
+    "status": "Open",
+    "createdAt": "2025-06-19T22:10:16.743Z"
+  },
+  {
+    "id": 7,
+    "userId": 5,
+    "description": "My internet is not working.",
+    "status": "Open",
+    "createdAt": "2025-06-19T22:11:34.252Z"
+  },
+  {
+    "id": 8,
+    "userId": 5,
+    "description": "My internet is not working.",
+    "status": "In Progress",
+    "createdAt": "2025-06-19T22:12:06.543Z"
+  },
+  {
+    "id": 9,
+    "userId": 1,
+    "description": "My internet is not working.",
+    "status": "In Progress",
+    "createdAt": "2025-06-20T13:24:19.303Z"
+  }
+]
